@@ -12,6 +12,6 @@ The data in the study includes the information of the deputies elected according
 # Galery
 Some screenshuts;
 
-![](./docs/commission.png)
-![](./docs/contacts.png)
-![](./docs/deputies.png)
+![](./images/commission.png)
+![](./images/contacts.png)
+![](./images/deputies.png)
